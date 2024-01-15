@@ -1,0 +1,2 @@
+# kata
+Software craftsmanship
