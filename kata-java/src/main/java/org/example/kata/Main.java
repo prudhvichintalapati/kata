@@ -2,6 +2,7 @@ package org.example.kata;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        FooBarQix fooBarQix = new FooBarQix();
+        fooBarQix.withoutIf();
     }
 }

@@ -1,5 +1,7 @@
 package org.example.kata
 
 fun main() {
-    println("Hello World!")
+    val fooBarQix = FooBarQix()
+    fooBarQix.withIf()
+    fooBarQix.withoutIf()
 }
